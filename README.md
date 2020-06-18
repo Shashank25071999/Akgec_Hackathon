@@ -19,6 +19,7 @@ A working app to register yourself in various domains for the Technical Paper Pr
 - [countdown](https://pub.dev/packages/countdown)
 - [flip_box_bar](https://pub.dev/packages/flip_box_bar)
 - [http](pub.dev/packages/http)
+- [dio](https://pub.dev/packages/dio)
 - [flutter_spinkit](https://pub.dev/packages/flutter_spinkit)
 - [path_provider](https://pub.dev/packages/path_provider)
 - [intl](https://pub.dev/packages/intl)
