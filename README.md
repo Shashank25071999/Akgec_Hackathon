@@ -31,6 +31,10 @@ A working app to register yourself in various domains for the Technical Paper Pr
 
 
 
+![scrolls gif 1 (1)](https://user-images.githubusercontent.com/42460225/85072001-33fd2080-b16d-11ea-89c1-de5bed6a0876.gif)
+  ![scrolls gif 2 (1)](https://user-images.githubusercontent.com/42460225/85071607-9efa2780-b16c-11ea-9898-72405c81d5c4.gif)
+
+
 # Getting Started
 1) [Setup Flutter](https://flutter.dev/docs/get-started/install)
 
